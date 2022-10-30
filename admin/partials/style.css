@@ -1,0 +1,19 @@
+/*
+
+Author: Jackson Jackson
+License: free to use with credit
+Verison: 1.0;
+
+*/
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+body{
+    background-color: red;
+    color: white;
+}
